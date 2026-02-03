@@ -11,6 +11,7 @@ The report highlights key KPIs and supports data-driven decision-making.
 -- Regional performance insights
 -- Trend analysis with DAX measures
 
+
 **Tools & Technologies**
   
 --Power BI Desktop
